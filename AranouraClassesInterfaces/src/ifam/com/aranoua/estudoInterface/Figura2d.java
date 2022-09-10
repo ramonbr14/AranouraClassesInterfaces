@@ -1,4 +1,4 @@
-package estudoInterface;
+package ifam.com.aranoua.estudoInterface;
 
 public abstract class Figura2d {
 	double base;

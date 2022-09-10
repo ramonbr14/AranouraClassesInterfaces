@@ -1,4 +1,4 @@
-package estudoInterface;
+package ifam.com.aranoua.estudoInterface;
 
 import javax.swing.JOptionPane;
 
