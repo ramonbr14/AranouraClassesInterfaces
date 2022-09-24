@@ -3,7 +3,7 @@ package ifam.com.aranoua.ClasseInternaExterna;
 public interface Teste {
 	public void beta();
 }
-
+/*
 class ClasseExterna{
 	Teste t = new Teste() {
 		public void beta() {
@@ -35,4 +35,4 @@ class Implementa{
 }
 
 
-//Ver Slide entre 110 e 115
+//Ver Slide entre 110 e 115*/
